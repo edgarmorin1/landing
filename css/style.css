@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Sometype+Mono&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Sometype Mono', monospace;
+  margin: 0;
+  background-color: #FFFFFF; 
+  color: #FF0000; 
+}
+
+h1, h2, h3 {
+  font-family: 'Rubik Mono One', monospace;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  color: #FF0000; 
+}
